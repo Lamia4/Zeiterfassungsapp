@@ -1,0 +1,83 @@
+
+.contact-form{
+    border:2px solid rgb(231, 223, 223);
+    margin:0 auto 20px auto;
+    padding: 20px;
+    width: 50%;
+    
+}
+
+#exampleText{
+
+    margin-bottom: 20px;
+
+}
+
+.contact-form-text{
+    
+    margin-bottom: 20px;
+}
+
+
+
+
+.checkDiv{
+    width: 50%;
+    margin: 25px auto ;
+    text-align: left;
+    height: 80vh;
+
+}
+
+.info{
+    
+    font-size: 20px;
+    font-weight: 300;
+    border-bottom:1px solid rgb(218, 208, 208);
+    margin: 4% auto;
+    
+    
+}
+
+
+
+.problem{
+    font-size: 17px;
+    font-weight: 300;
+    text-align: center;
+    
+
+}
+
+
+.info-Beschreibung{
+    font-size: 23px;
+    font-weight: 300;
+    margin-bottom: 120px;
+    /* border-bottom:1px solid rgb(218, 208, 208); */
+    height: 25px;
+    
+
+    
+ 
+}
+
+.text{
+    border: 1px solid rgb(218, 208, 208);
+    margin: 20px auto;
+    overflow: auto;
+    height: 100px;
+    
+}
+
+.btnAhmet{
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+    margin: 5px;
+    width: 100%;
+    
+}
+
+
+.main{
+    margin-top: 50px;
+}
